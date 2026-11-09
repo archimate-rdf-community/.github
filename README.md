@@ -6,7 +6,7 @@ Several independent ArchiMate RDF efforts exist, and each has solved a different
 
 ## Current status
 
-We're agreeing on goals before anything else. Join the [kickoff discussion](../../discussions).
+We're agreeing on goals before anything else. Join the [kickoff discussion](https://github.com/archimate-rdf-community/discussions).
 
 ## Participating ontologies
 
