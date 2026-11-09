@@ -14,7 +14,7 @@ We're agreeing on goals before anything else. Join the [kickoff discussion](http
 |---|---|---|
 | ArchiMate RDF ontology | 3.2 | [AlbertoDMendoza/archimate_ontology](https://github.com/AlbertoDMendoza/archimate_ontology) |
 | archimate-rdf | 4.0 draft | [jwvveen/archimate-rdf](https://github.com/jwvveen/archimate-rdf) |
-| Linked.Archi | 3.1 | [linked-archi](https://github.com/linked-archi) |
+| Linked.Archi | 3.1/2, 4.0 | [linked-archi](https://meta.linked.archi) |
 
 Working on ArchiMate in RDF yourself? Open a discussion and introduce your work.
 
